@@ -5,8 +5,7 @@ class CurrencyConverterPage extends StatefulWidget {
 
   @override
   State createState() {
-    return _CurrencyConverterPageState();
-  }
+    return _CurrencyConverterPageState(); }
 }
 
 class _CurrencyConverterPageState extends State {
